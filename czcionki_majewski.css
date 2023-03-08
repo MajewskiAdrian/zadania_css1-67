@@ -1,0 +1,123 @@
+p#majewski
+{
+	text-align: right;
+	color:#FF3200;
+	font-size:1cm;
+}
+p#akapit1_majewski
+{
+	text-align: right;
+	color:#0000FF;
+	font-size:1cm;
+}
+
+
+/* Zadanie1 - Akapit1 */
+#z1ak1_majewski
+{
+	font-style:italic;
+	font-family: serif;
+	color:#0000FF;
+	font-variant:small-caps ;
+	font-weight: 400;
+	font-size: xx-small;
+	text-indent:3cm;
+	line-height: 1,2cm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-align: right;
+}
+
+/* Zadanie2 - Akapit1 */
+#z2ak1_majewski
+{
+	font-family: serif;
+	color:#008B8B;
+	text-decoration: overline;
+	font-weight: 600;
+	font-size:medium;
+	text-indent:3cm;
+	line-height: 1,2cm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-align: right;
+}
+
+/* Zadanie3 - Akapit1 */
+#z3ak1_majewski
+{
+	
+	font-family: serif;
+	color:#87CEEB;
+	font-weight: 800;
+	font-size:xx-large;
+	text-transform:uppercase;
+	text-indent:3cm;
+	line-height: 1,2cm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-align: right;
+}
+
+
+
+
+p#akapit2_majewski
+{
+	text-align: center;
+	color:#0000FF;
+	font-size:1cm;
+}
+
+
+
+/* Zadanie1 - Akapit2 */
+#z1ak2_majewski
+{
+	font-style: oblique;
+	font-family: sans-serif;
+	color:#696969;
+	font-weight: 800;
+	font-size: 0,75em;
+	text-transform: capitalize;
+	text-indent: 15mm;
+	line-height: 18mm;
+	word-spacing: 10pt ;
+	letter-spacing: 0,3cm ;
+	text-align: center;
+}
+
+/* Zadanie2 - Akapit2 */
+#z2ak2_majewski
+{
+	font-family: sans-serif;
+	color:#C0C0C0;
+	text-decoration: line-through;
+	font-weight: 600;
+	font-size: 0.4in;
+	text-indent: 15mm;
+	line-height: 18mm;
+	word-spacing: 10pt ;
+	letter-spacing: 0,3cm ;
+	text-align: center;
+}
+
+/* Zadanie3 - Akapit2 */
+#z3ak2_majewski
+{
+	font-family: sans-serif;
+	color:#DCDCDC;
+	font-variant:small-caps ;
+	font-weight: 300;
+	font-size: 20px;
+	text-indent: 15mm;
+	line-height: 18mm;
+	word-spacing: 10pt ;
+	letter-spacing: 0,3cm ;
+	text-align: center;
+}
+
+
+
+
+/*Majewski Adrian, klasa 1P grupa 2*/
