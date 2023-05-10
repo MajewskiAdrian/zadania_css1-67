@@ -1,0 +1,46 @@
+
+p
+ {
+ color: blue;
+ font-size: 21pt;
+ }
+ 
+p:first-letter
+ {
+ color: yellow;
+ font-size: 115pt;
+ }
+ 
+#akapit2
+ {
+  font-size: 21pt;
+ }
+ 
+ #akapit2:first-letter 
+ {
+  color: red;
+ }
+ 
+ h1
+ {
+ color: purple;
+ font-size: 30pt;
+ }
+ 
+h1:first-letter
+ {
+ color: silver;
+ font-size: 125pt;
+ }
+ 
+ 
+  #akapit4:first-letter 
+ {
+  color: red;
+ }
+ 
+  #akapit4:first-line 
+ {
+  color: red;
+ }
+ 

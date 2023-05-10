@@ -1,0 +1,58 @@
+A
+{text-decoration: none; color: black;}
+
+div#pierwszy_majewski 
+{
+	background-color: rgb(186, 26, 181); width:768pt; 
+	border-top-right-radius: 13mm; border-top-left-radius: 13mm;  border-bottom-right-radius: 13mm; border-bottom-left-radius: 13mm;
+	border: 7px solid rgb(200, 100, 200);
+	
+}
+
+div#drugi_majewski 
+{
+	background-color: rgb(144,255,144); width:968pt; margin-left: auto; margin-right: auto;
+	border-top-right-radius: 15mm; border-top-left-radius: 15mm;  border-bottom-right-radius: 15mm; border-bottom-left-radius: 15mm;
+	border: 3px solid rgb(0, 0, 0);
+	
+}
+
+
+
+div#trzeci_majewski 
+{
+	background-color: rgb(52, 204, 235); width:1168pt; margin-left: auto; margin-right: auto;
+	border-top-right-radius: 12mm; border-top-left-radius: 12mm;  border-bottom-right-radius: 12mm; border-bottom-left-radius: 12mm;
+	border: 3px solid rgb(100, 120, 255);
+	
+}
+
+
+p
+{
+	font-size:11pt;
+} 
+	
+p:first-child
+{
+	font-size:7mm;
+	font-style:italic;
+}
+
+
+
+
+
+ 
+/*
+ Adrian Majewski
+ 
+ div#blok3_majewski:hover 
+{background-color: gold; font-size: 18mm;}
+
+div#blok2_majewski:hover 
+{background-color: silver; font-size: 18mm;}
+
+div#blok1_majewski:hover 
+{background-color: blue; font-size: 18mm;}
+*/

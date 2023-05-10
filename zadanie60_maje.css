@@ -1,0 +1,35 @@
+A
+{text-decoration: none; color: black;}
+
+div#blok1_majewski 
+{background-color: green; width:617px;}
+
+div#blok1_majewski:hover 
+{background-color: blue; font-size: 18mm;}
+
+
+
+div#blok2_majewski 
+{background-color: green; width:617px;}
+
+div#blok2_majewski:hover 
+{background-color: silver; font-size: 18mm;}
+
+
+
+div#blok3_majewski 
+{background-color: green; width:617px;}
+
+div#blok3_majewski:hover 
+{background-color: gold; font-size: 18mm;}
+
+
+
+
+
+
+
+ 
+/* hover; -> Doprowadza do zmian pewnych elementów po najechaniu na nie
+ Adrian Majewski*/
+ 
